@@ -6,8 +6,8 @@ global.owner = [
   ['96894116692', 'dark man', true],
 ] //Number of owners
 
-global.mods = ['96894116692','96898172380'] 
-global.prems = ['96894116692','96898172380']
+global.mods = ['967776358825','967700244383'] 
+global.prems = ['967776358825','967700244383']
 
 
 global.APIs = { // API Prefix
@@ -20,9 +20,9 @@ global.APIKeys = { // Apikey : 42x5rO7o \\
 
 // Sticker WM
 global.ownername = 'dark man'
-global.botname = 'رافـاييـل بــوت'
+global.botname = 'بوت الرعب_الملكي'
 global.premium = 'false'
-global.packname = 'رافـاييـل بــوت'
+global.packname = 'الرعب_الملكي بــوت'
 global.author = 'Dev >> dark man'
 
 
